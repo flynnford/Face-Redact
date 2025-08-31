@@ -1,4 +1,4 @@
-# Face Redact 🕶️
+# Face Redact 
 
 I needed a super simple way to blur faces in photos for privacy, so I made this little Python script! It's basically my first attempt at computer vision - nothing fancy, just gets the job done.
 
